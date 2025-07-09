@@ -93,7 +93,7 @@ I'm a passionate and performance-focused <b>Big Data Engineer</b> with a proven 
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/@shubhayumallick577" target="_blank">
-    <img src="https://github.com/ShubhayuMallick1997/ShubhayuMallick1997/blob/main/pngtree-youtube-social-media-3d-stereo-png-image_6308427.png" alt="YouTube" height="50" width="50" />
+    <img src="https://github.com/ShubhayuMallick1997/ShubhayuMallick1997/blob/main/pngtree-youtube-social-media-3d-stereo-png-image_6308427.png" alt="YouTube" height="100" width="100" />
   </a>
 </p>
 
