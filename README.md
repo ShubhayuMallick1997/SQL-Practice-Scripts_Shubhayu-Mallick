@@ -95,7 +95,7 @@ I'm a passionate and performance-focused <b>Big Data Engineer</b> with a proven 
     <img src="https://github.com/ShubhayuMallick1997/ShubhayuMallick1997/blob/main/linkedin-logo.png" alt="LinkedIn" height="50" width="200" />
   </a>
    <a href="https://github.com/ShubhayuMallick1997" target="_blank">
-    <img src="https://github.com/ShubhayuMallick1997/ShubhayuMallick1997/blob/main/logo-05.3cd48609.png" alt="GitHub" height="50" width="200" />
+    <img src="https://github.com/ShubhayuMallick1997/ShubhayuMallick1997/blob/main/logo-05.3cd48609%20(1)1.png" alt="GitHub" height="50" width="200" />
   </a>
     <a href="https://www.hackerrank.com/profile/rajamallick087" target="_blank">
     <img src="https://github.com/ShubhayuMallick1997/ShubhayuMallick1997/blob/main/hackerrank-software.png" alt="Hackerrank" height="50" width="200" />
