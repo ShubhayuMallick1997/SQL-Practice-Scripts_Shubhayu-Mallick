@@ -96,7 +96,7 @@ I'm a passionate and performance-focused <b>Big Data Engineer</b> with a proven 
     <img src="https://github.com/ShubhayuMallick1997/ShubhayuMallick1997/blob/main/pngtree-youtube-social-media-3d-stereo-png-image_6308427.png" alt="YouTube" height="90" width="120" />
   </a>
    <a href="https://github.com/ShubhayuMallick1997" target="_blank">
-    <img src="https://github.com/ShubhayuMallick1997/ShubhayuMallick1997/blob/main/git.png" alt="GitHub" height="60" width="60" />
+    <img src="https://github.com/ShubhayuMallick1997/ShubhayuMallick1997/blob/main/git.png" alt="GitHub" height="90" width="90" />
   </a>
 </p>
 
