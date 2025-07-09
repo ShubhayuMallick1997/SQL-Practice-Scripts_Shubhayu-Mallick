@@ -101,7 +101,7 @@ I'm a passionate and performance-focused <b>Big Data Engineer</b> with a proven 
     <img src="https://github.com/ShubhayuMallick1997/ShubhayuMallick1997/blob/main/hackerrank-software.png" alt="Hackerrank" height="50" width="200" />
   </a>
   <a href="https://www.youtube.com/@shubhayumallick577" target="_blank">
-    <img src="https://github.com/ShubhayuMallick1997/ShubhayuMallick1997/blob/main/image3-1024x618.png" alt="YouTube" height="50" width="200" />
+    <img src="https://github.com/ShubhayuMallick1997/ShubhayuMallick1997/blob/main/YouTube-Custom-URL-Claim-Name-scaled.png" alt="YouTube" height="50" width="200" />
   </a>
   
 </p>
