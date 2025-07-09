@@ -26,7 +26,7 @@ I'm a passionate and performance-focused <b>Big Data Engineer</b> with a proven 
 ---
 
 <p align="center">
-  <img src="https://github.com/ShubhayuMallick1997/ShubhayuMallick1997/blob/main/Screenshot_2025-07-09_125213-removebg-preview%20(1).png" alt="Tech Stack" width="100%" />
+  <img src="https://github.com/ShubhayuMallick1997/ShubhayuMallick1997/blob/main/Screenshot%202025-07-09%20150123.png" alt="Tech Stack" width="100%" />
 </p>
 
 ## 🛠️ Technical Stack
