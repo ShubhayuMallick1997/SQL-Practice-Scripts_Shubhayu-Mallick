@@ -1,3 +1,4 @@
+![Logo]("https://github.com/ShubhayuMallick1997/ShubhayuMallick1997/blob/main/Git%20Logo%201.png")
 <h1 align="center">Hi 👋, I'm <span style="color:#ff6347;">SHUBHAYU MALLICK</span></h1>
 
 <h3 align="center">PySpark Data Engineer | 3+ Years Experience</h3>
