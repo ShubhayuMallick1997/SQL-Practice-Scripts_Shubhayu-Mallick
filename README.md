@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ShubhayuMallick1997/ShubhayuMallick1997/blob/main/Git%20Logo%201.png?raw=true" alt="Logo" width="150"/>
+  <img src="https://github.com/ShubhayuMallick1997/ShubhayuMallick1997/blob/main/Git%20Logo%201.png?raw=true" alt="Logo" width=100%/>
 </p>
 <h1 align="center">Hi 👋, I'm <span style="color:#ff6347;">SHUBHAYU MALLICK</span></h1>
 
