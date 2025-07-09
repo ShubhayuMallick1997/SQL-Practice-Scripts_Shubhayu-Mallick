@@ -91,13 +91,15 @@ I'm a passionate and performance-focused <b>Big Data Engineer</b> with a proven 
   <a href="https://www.linkedin.com/in/shubhayu-mallick-76a3a426a/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="70" width="70" />
   </a>
+   <a href="https://github.com/ShubhayuMallick1997" target="_blank">
+    <img src="https://github.com/ShubhayuMallick1997/ShubhayuMallick1997/blob/main/git.png" alt="GitHub" height="90" width="90" />
+  </a>
+ 
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/@shubhayumallick577" target="_blank">
     <img src="https://github.com/ShubhayuMallick1997/ShubhayuMallick1997/blob/main/pngtree-youtube-social-media-3d-stereo-png-image_6308427.png" alt="YouTube" height="90" width="120" />
   </a>
-   <a href="https://github.com/ShubhayuMallick1997" target="_blank">
-    <img src="https://github.com/ShubhayuMallick1997/ShubhayuMallick1997/blob/main/git.png" alt="GitHub" height="90" width="90" />
-  </a>
+  
 </p>
 
 ---
