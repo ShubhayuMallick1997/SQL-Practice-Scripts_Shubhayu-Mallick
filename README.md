@@ -93,7 +93,7 @@ I'm a passionate and performance-focused <b>Big Data Engineer</b> with a proven 
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/@shubhayumallick577" target="_blank">
-    <img src="https://github.com/ShubhayuMallick1997/PYSPARK-OVERVIEW/blob/main/pngtree-youtube-social-media-3d-stereo-png-image_6308427-removebg-preview.png" alt="YouTube" height="60" width="60" />
+    <img src="https://github.com/ShubhayuMallick1997/PYSPARK-OVERVIEW/blob/main/pngtree-youtube-social-media-3d-stereo-png-image_6308427-removebg-preview.png" alt="YouTube" height="90" width="90" />
   </a>
 </p>
 
@@ -102,7 +102,7 @@ I'm a passionate and performance-focused <b>Big Data Engineer</b> with a proven 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shubhayumallick&color=blue&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=shubhayumallick&color=blue&style=flat-square" alt="Profile Views" height="30" width="80" />
 </p>
 
 <p align="center">
