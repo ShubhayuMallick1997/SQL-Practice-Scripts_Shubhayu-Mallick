@@ -84,10 +84,10 @@ I'm a passionate and performance-focused <b>Big Data Engineer</b> with a proven 
 </p>
 
 ---
-<p align="center">
+
 ### 🔗 Connect with me
 
-
+<p align="center">
   <a href="https://www.linkedin.com/in/shubhayu-mallick-76a3a426a/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="70" width="70" />
   </a>
